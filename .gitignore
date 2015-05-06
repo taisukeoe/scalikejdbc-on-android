@@ -1,0 +1,17 @@
+.DS_Store
+target/
+*.png
+*.rdb
+out
+**/out
+**/*.class
+**/target
+gen/
+bin/
+**/gen
+**/bin
+.idea
+.idea_modules
+*.apk
+**/*.apk
+local.properties

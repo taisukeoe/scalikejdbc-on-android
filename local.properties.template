@@ -1,0 +1,7 @@
+sdk.dir=/path/to/your/android-sdk-directory
+
+#keyStore settings
+
+#key.alias:KEYALIAS
+#key.store:/path/to/keyStore
+#key.store.password:PASSWORD

@@ -1,0 +1,4 @@
+-keep public class * extends junit.framework.TestCase
+-keepclassmembers class * extends junit.framework.TestCase { *; }
+-ignorewarnings
+
